@@ -1,0 +1,32 @@
+img.img-fluid.mx-auto.logo {
+    width: 120px; 
+}
+nav.navbar.navbar-expand-lg.navbar-dark.bg-navber {
+    background-color: #514f5dde !important;
+}
+a.nav-link.nav-link {
+    font-weight: 500;
+    color: #FEFEFE;
+    margin-left: 20px;
+}
+.nav-link.sing_in{
+    
+    text-align: center;
+    margin-left: 30px;
+    border: 1px solid #eeebe8;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.btn.sing_out{
+    text-align: center;
+    margin-left: 30px;
+    border: 1px solid #eeebe8 !important;
+    border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -ms-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+}

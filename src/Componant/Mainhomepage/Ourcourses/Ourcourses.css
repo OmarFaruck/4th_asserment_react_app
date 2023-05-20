@@ -1,0 +1,54 @@
+section#callaction {
+    background:#fff;
+    padding:50px 0 0 0;
+}
+.aligncenter h1{
+    text-align:center;
+    font-family: ui-sans-serif;
+}
+.aligncenter p{
+    text-align:center;
+    font-family: ui-sans-serif;
+    font-size: 18px;
+}
+span.icons {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+h5.card-title{
+    color: #323232;
+}
+p.card-text{
+    color: #323232;
+}
+.card.mx-auto{
+    width: 16rem;
+}
+span.icons1 {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    background-color: #ED5441;
+}
+.icons2 {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    background-color: #D867B2;
+}
+.icons3 {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    background-color: #4BC567;
+}
+.icons4 {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    background-color: #26AFF0;
+}
+button.courses_btn.btn.btn-primary {
+    background-color: #02020273 !important;
+}

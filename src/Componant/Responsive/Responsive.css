@@ -1,0 +1,359 @@
+@media (min-width: 320px) and (max-width: 425px) {
+     
+    .aligncenter h1 {
+        font-size: 26px !important; 
+        padding-bottom: 20px;
+    }
+    section.sub_slider {
+        font-size: 10px !important; 
+    }
+    .information h1 {
+        font-size: 19px !important;
+        margin-bottom: 20px;
+    }
+    .con_information {
+        display: grid !important;
+        margin-left: 0px !important; 
+    }
+    svg.phone {
+        font-size: 35px;
+        margin-left: 44% !important;
+        margin-bottom: 15px;
+    }
+    svg.envelope{
+        font-size: 35px;
+        margin-left: 44% !important; 
+        margin-bottom: 15px;
+    }
+    svg.envelope_1{
+        font-size: 35px;
+        margin-left: 44% !important; 
+        margin-bottom: 6px;
+    }
+    svg.Google {
+        font-size: 35px;
+        margin-left: 16px !important;
+    }
+    svg.facebook{
+        font-size: 35px;
+        margin-left: 10px !important;
+    }
+    svg.github {
+        font-size: 35px;
+        margin-left: 10px !important;
+    }
+  
+    /* **********************about page*************************** */
+    #inner-headline {
+        text-align: center; 
+    }
+    .weare h1 {
+        text-align: center;
+        font-size: 24px; 
+    }
+    .weare p {
+        text-align: center; 
+        font-size: 15px !important;
+    }
+    button.btn.btn-outline-primary {  
+        margin-top: 10px;
+    }
+    .aboutus p {
+        font-size: 17px !important;
+        text-align: center; 
+        padding: 15px;
+    }
+    .font_text {
+        text-align: center;
+    }
+    .Choose_us h1 {
+        font-size: 25px !important; 
+        text-align: center;
+    }
+    .Choose_us h2 {
+        font-size: 30px !important; 
+        text-align: center;
+    }
+    .Choose_us h3 {
+        font-size: 30px !important; 
+        text-align: center;
+    }
+    section#team h1 {
+        text-align: center;
+    }
+    section#CoursesOffer p {
+        text-align: center; 
+        font-size: 12px !important;
+
+    }
+
+
+    h1.GLOBAL {
+        font-size: 19px !important; 
+    }
+    h4.Choose { 
+        font-size: 19px !important;
+    }
+    section#ourfacilities h1 {
+        font-size: 30px !important; 
+    }
+    section#CoursesOffer h5 {
+        text-align: center; 
+        font-size: 16px !important;
+    }
+    .offer_start p {
+        text-align: center; 
+    }
+    section#CoursesOffer h2 {
+        text-align: center; 
+    }
+    .textbox h3 {
+        text-align: center; 
+    }
+    section#From {
+        padding: 0px !important; 
+    }
+    .item_introtext {
+        display: none !important;
+    }
+    .form-floating.mb-3.pt-2 {
+        margin-top: 30px !important;
+    }
+    .font_icon {
+        text-align: center !important; 
+    }
+    .Sing{
+        text-align: center;
+        margin-top: 20px !important;
+    }
+    .offer_start h2 {
+        text-align: center; 
+    }
+    .offer_start p {
+        font-size: 14px !important; 
+    }
+    .nav-link.sing_in{
+        margin-top: 20px !important;
+    }
+    .btn.sing_out{
+        margin-top: 20px !important;
+    }
+    .aligncenter p { 
+        font-size: 15px !important;
+    }
+    .list h2 {
+        text-align: center; 
+     }
+}
+@media (min-width: 425px) and (max-width: 768px){ 
+    .information h1 {
+        font-size: 25px !important;
+        margin-bottom: 20px;
+    }
+    .font_icon {
+        text-align: center !important;
+    }
+
+       /* **********************about page*************************** */
+       h2.pageTitle {
+        text-align: center;
+    }
+    .weare h1 {
+        text-align: center;
+        font-size: 24px; 
+    }
+    .weare p {
+        text-align: center; 
+        font-size: 15px !important;
+    }
+    button.btn.btn-outline-primary {  
+        margin-top: 10px;
+    }
+    .aboutus p {
+        font-size: 17px !important;
+        text-align: center; 
+        padding: 15px;
+    }
+    .con_information {
+        display: grid !important;
+        margin-left: 0px !important; 
+    }
+    .con_information p {
+        font-size: 27px;
+        margin-top: 10px; 
+    }
+    .font_text {
+        text-align: center;
+    }
+    .Choose_us h1,h2,h3 {
+        font-size: 30px !important; 
+        text-align: center;
+    }
+    section#team h1 {
+        text-align: center;
+    }
+    #inner-headline {
+        text-align: center; 
+    }
+    section#CoursesOffer p {
+        text-align: center; 
+    } 
+    section#CoursesOffer h5 {
+        text-align: center; 
+    }
+    .offer_start p {
+        text-align: center; 
+    }
+    section#CoursesOffer h2 {
+        text-align: center; 
+    }
+    .textbox h3 {
+        text-align: center; 
+    }
+    svg.phone {
+        margin-left: 40% !important;
+        font-size: 35px; 
+        margin-bottom: 15px;
+    }
+    svg.envelope{
+        margin-left: 40% !important;
+        font-size: 35px; 
+        margin-bottom: 15px;
+    }
+    svg.envelope_1 {
+        /* margin-top: 12px;  */
+        margin-bottom: 15px;
+    }
+    svg.Google {
+        font-size: 35px;
+        margin-left: 24px !important;
+    }
+    svg.facebook{
+        font-size: 35px; 
+    }
+    svg.github {
+        font-size: 35px;
+        margin-left: 10px !important;
+    }
+    .item_introtext {
+        display: none !important;
+    }
+    .font_icon {
+        text-align: center !important; 
+    }
+    .Sing{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .textbox {
+        margin-top: 25px; 
+    }
+    section#CoursesOffer p {
+        text-align: center; 
+    }
+    .nav-link.sing_in{
+        margin-top: 20px !important;
+    }
+    .btn.sing_out{
+        margin-top: 20px !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    .carousel-item img {
+        height: 100%  !important; 
+    }
+    .information h1 {
+        font-size: 25px !important;
+        margin-bottom: 20px;
+    }
+       /* **********************about page*************************** */
+       h2.pageTitle {
+        text-align: center;
+    }
+    .weare h1 {
+        text-align: center;
+        font-size: 24px; 
+    }
+    .weare p {
+        text-align: center; 
+        font-size: 15px !important;
+    }
+    button.btn.btn-outline-primary {  
+        margin-top: 10px;
+    }
+    .aboutus p {
+        margin-left: 40px !important;
+        font-size: 17px !important;
+        text-align: center;
+        padding: 15px;
+        margin-right: 40px !important;
+    }
+    .font_text {
+        text-align: center;
+    } 
+    .Choose_us h1,h2,h3 {
+        font-size: 27px !important;
+        text-align: center;
+    }
+    #inner-headline {
+        text-align: center; 
+    }
+    section#CoursesOffer h5 {
+        text-align: center; 
+    }
+    .offer_start p {
+        text-align: center; 
+    }
+    .main_progress {
+        margin-left: 30px;
+    }
+    section#CoursesOffer h2 {
+        text-align: center; 
+    }
+    .textbox h3 {
+        text-align: center; 
+    }
+    svg.phone {
+        margin-left: 43% !important; 
+    }
+    svg.envelope { 
+        margin-left: 43% !important;
+    }
+    svg.Google { 
+        margin-left: 45px !important;
+    }
+    svg.envelope_1 {
+        margin-top: 0px !important; 
+        margin-left: 40% !important;
+        margin-bottom: 0px !important;
+    }
+    /* .font svg.Google {
+        margin-left: 90px !important;
+    } */
+    svg.facebook{
+        font-size: 35px;
+        margin-left: 10px !important;
+    }
+    svg.github {
+        font-size: 35px;
+        margin-left: 10px !important;
+    }
+ 
+    .font_icon {
+        text-align: center !important; 
+    }
+    .Sing{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .textbox {
+        margin-top: 25px; 
+    }
+    section#CoursesOffer p {
+        text-align: center; 
+    } 
+    .con_information {
+        display: grid !important;
+        margin-left: 0px !important;
+    }
+}

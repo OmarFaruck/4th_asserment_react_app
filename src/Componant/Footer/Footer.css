@@ -1,0 +1,33 @@
+.text-center{
+    color: #EFEFEF;
+    font-family: ui-sans-serif;
+    padding-bottom: 20px;
+ }
+ section#footer {
+    background-color: #514f5db7;
+    padding-top: 40px; 
+    margin-top: 20px;
+}
+.font_icon {
+    width: 0px!important;
+    text-align: end;
+    color: aliceblue;
+    display: flex; 
+} 
+ 
+.font_icon svg.envelope_1 {
+    font-size: 35px;
+    margin-left: 10px !important;  
+}
+.font_icon svg.Google {
+    font-size: 35px;
+    margin-left: 0px !important;  
+}
+.font_icon svg.facebook {
+    font-size: 35px;
+    margin-left: 10px !important;  
+}
+.font_icon svg.github {
+    font-size: 35px;
+    margin-left: 10px !important;  
+}

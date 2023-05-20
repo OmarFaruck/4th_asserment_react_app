@@ -1,0 +1,14 @@
+ .card_body img.img1.mt-4.w-50{
+text-align: center;
+ }
+ .card_body{
+    border: 1px solid rgb(235, 231, 231);
+
+ }
+ .list h2 {
+   margin-top: 15px;
+   /* text-align: center; */
+   margin-bottom: 25px;
+   font-weight: 600;
+   font-family: ui-sans-serif;
+}

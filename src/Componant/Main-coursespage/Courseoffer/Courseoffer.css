@@ -1,0 +1,28 @@
+section#CoursesOffer h2 {
+    color: #605c5c;
+    font-family: ui-sans-serif;
+    margin-top: 30px;
+}
+section#CoursesOffer p {
+    margin-bottom: 25px;
+    color: #605c5c;
+    font-family: ui-sans-serif;
+    margin-top: 20px;
+}
+.textbox {
+    background-color: #ededed;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+.textbox h3 {
+    color: #605c5c;
+    font-family: ui-sans-serif;
+}
+ 
+section#CoursesOffer h5 {
+    color: #605c5c;
+    font-family: ui-sans-serif;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}

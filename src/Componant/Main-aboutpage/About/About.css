@@ -1,0 +1,12 @@
+#inner-headline{
+    background-color: #fafafa !important;
+    position:relative;
+    margin:0;
+    padding:0;
+    color:#fefefe; 
+    /* border-top: 10px solid #11967C; */
+} 
+#inner-headline .inner-heading h2 {
+    color:#696565;
+    margin:20px 0 0 0;
+}

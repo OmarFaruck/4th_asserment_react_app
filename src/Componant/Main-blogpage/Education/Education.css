@@ -1,0 +1,48 @@
+
+section#education {
+    background-repeat: no-repeat;
+    max-height: 100%;
+    background-position: center;
+    padding-bottom: 287px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.span{
+    color: white;
+}
+.back-img {
+    max-height: 100%;
+    background-position: center;
+    padding-bottom: 287px;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+h3.EDUCATION {
+    padding-top: 250px;
+    color: white;
+    font-family: sans-serif;
+}
+h5.Endless {
+    color: white;
+    font-family: sans-serif;
+}
+button.Visit:hover{
+    background-color: #514f5dde !important;
+    color: aliceblue;
+    border: none;
+}
+button.Visit {
+    border-radius: 12px;
+    font-size: 22px;
+    padding: 20px 20px;
+    border: none;
+    margin-top: 22px;
+    color: rgb(255, 255, 255);
+    border: 1px solid white;
+    background: transparent;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}

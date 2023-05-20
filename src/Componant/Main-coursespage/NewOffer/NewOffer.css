@@ -1,0 +1,13 @@
+.offer_start h2 {
+    color: #605c5c;
+    font-family: ui-sans-serif;
+    margin-top: 20px;
+}
+.offer_start p {
+    color: #605c5c;
+    font-family: ui-sans-serif;
+    margin-top: 15px;
+}
+.offer_start img {
+    border-radius: 10px;
+}

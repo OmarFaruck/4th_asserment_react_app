@@ -1,0 +1,16 @@
+.spans{
+    font-family: ui-sans-serif;
+    color: #605c5c;
+    font-weight: 700;
+}
+section#team h1 {
+    margin-bottom: 30px;
+    margin-top: 50px;
+    color: #605c5c;
+    font-family: system-ui;
+}
+.weare p {
+    margin-top: 17px;
+    color: #605c5c;
+    font-family: system-ui;
+}
